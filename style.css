@@ -1,0 +1,66 @@
+body{
+    background-color:rgb(214, 218, 218);
+}
+
+table{
+    font-family: 'Roboto', 'Oxygen';
+    border-collapse: collapse;
+    margin: 36px auto;
+    box-shadow: 0px 1px 2px 0px rgb(53, 53, 53);
+}
+
+table td{
+    border-top: 1px solid rgb(7, 7, 7);
+    padding: 12px;
+    text-align: center;
+}
+
+.sem{
+    text-align: center;
+    color: white
+}
+
+.sem-header{
+    font-weight: bold;
+    text-align: center; 
+}
+
+table ,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table tr:nth-child(1){
+    background-color: rgba(0, 0, 255, 0.849) ;
+}
+table tr:nth-child(2){
+    background-color: rgba(128, 128, 128, 0.884) ;
+}
+table tr:nth-child(3){
+    background-color: skyblue ;
+}
+table tr:nth-child(4){
+    background-color: skyblue ;
+}
+table tr:nth-child(5){
+    background-color: skyblue ;
+}
+table tr:nth-child(6){
+    background-color: skyblue ;
+}
+table tr:nth-child(7){
+    background-color: skyblue ;
+}
+table tr:nth-child(8){
+    background-color: skyblue ;
+}
+table tr:nth-child(9){
+    background-color: skyblue ;
+}
+table tr:nth-child(10){
+    background-color: skyblue ;
+}
+
+table tr:hover{
+    background-color: rgba(255, 255, 0, 0.795);
+}
